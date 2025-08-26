@@ -1,6 +1,6 @@
 # Overview
 
-This analysis of the data job market was done using a guided youtube video by Luke Barousse. The focus of this project was to get a concrete understanding on basic python coding concepts. The project dives into top paying and in deman dskills to help find optimal job opportunities for data analysts using a live dataset.
+This analysis of the data job market was done using a guided youtube video by Luke Barousse. The focus of this project was to get a concrete understanding on basic python coding concepts. The project dives into top paying and in demand skills to help find optimal job opportunities for data analysts using a live dataset.
 
 # The Questions
 
